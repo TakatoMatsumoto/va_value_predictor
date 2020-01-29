@@ -1,8 +1,6 @@
 ## Description
 MP3ファイルから音楽特徴量を抽出し、Valence, Arousal valueを算出する。
 
-## Demo
-
 ## Requirement
 Python 3.7.3  
 librosa 0.7.1  
