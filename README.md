@@ -5,9 +5,7 @@ MP3ファイルから音楽特徴量を抽出し、Valence, Arousal valueを算�
 
 ## Requirement
 Python 3.7.3  
-
--Python Package-
-librosa 0.7.1
+librosa 0.7.1  
 xgboost 0.90  
 
 ## Usage
