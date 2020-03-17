@@ -5,6 +5,7 @@ MP3ファイルから音楽特徴量を抽出し、Valence, Arousal valueを算�
 Python 3.7.3  
 librosa 0.7.1  
 xgboost 0.90  
+$pip install xgboost
 
 ## Usage
 1. audioフォルダ配下に音楽ファイル（mp3ファイル）を配置してください  
